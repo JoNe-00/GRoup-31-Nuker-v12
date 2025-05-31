@@ -1,4 +1,4 @@
-<img src="resources/terminal.gif">
+<img src="">
 
 
 
