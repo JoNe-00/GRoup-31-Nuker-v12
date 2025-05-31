@@ -14,6 +14,8 @@ How to run the tool is available on our Discord server.
 
 https://discord.gg/kc24AeUhuy
 
+https://discord.com/channels/1376370364791259166/1377667331664253078
+
 https://discord.gg/W7Zxve6hBD
 # How to contribute to this project
 Create a pull request
